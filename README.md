@@ -1,16 +1,6 @@
-# flutter_responsive_expanded_widget
+flutterda responsive yapısı kullanımı;
+![Screenshot 2024-07-01 at 12 58 45](https://github.com/SuleAydin08/flutter_responsive_expanded_widget/assets/160034825/516859be-0385-4936-b6ea-d039fbc607d9)
 
-A new Flutter project.
+![Screenshot 2024-07-01 at 12 58 27](https://github.com/SuleAydin08/flutter_responsive_expanded_widget/assets/160034825/857cc19a-8f27-482b-8f3f-c92bcabbc94c)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-07-01 at 12 58 36](https://github.com/SuleAydin08/flutter_responsive_expanded_widget/assets/160034825/fc3292cd-377a-4a6b-911c-430116b474ca)
